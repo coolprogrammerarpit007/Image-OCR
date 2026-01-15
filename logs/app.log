@@ -1,0 +1,24 @@
+2026-01-15 16:02:21,328 | INFO | ocr-api | Starting OCR API...
+2026-01-15 16:02:21,705 | INFO | mysql.connector | package: mysql.connector.plugins
+2026-01-15 16:02:21,705 | INFO | mysql.connector | plugin_name: caching_sha2_password
+2026-01-15 16:02:21,705 | INFO | mysql.connector | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-01-15 16:02:21,738 | INFO | ocr-api | Database table verified/created successfully
+2026-01-15 16:03:51,996 | INFO | ocr-api | OCR request received
+2026-01-15 16:04:07,632 | INFO | ocr-api | OCR extraction successful | ID=2
+2026-01-15 16:05:27,357 | INFO | ocr-api | OCR request received
+2026-01-15 16:06:14,209 | INFO | ocr-api | OCR extraction successful | ID=3
+2026-01-15 16:13:55,724 | INFO | ocr-api | Starting OCR API...
+2026-01-15 16:13:56,067 | INFO | mysql.connector | package: mysql.connector.plugins
+2026-01-15 16:13:56,082 | INFO | mysql.connector | plugin_name: caching_sha2_password
+2026-01-15 16:13:56,140 | INFO | mysql.connector | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-01-15 16:13:56,194 | INFO | ocr-api | Database table verified/created successfully
+2026-01-15 16:14:35,913 | INFO | ocr-api | Starting OCR API...
+2026-01-15 16:14:36,083 | INFO | mysql.connector | package: mysql.connector.plugins
+2026-01-15 16:14:36,085 | INFO | mysql.connector | plugin_name: caching_sha2_password
+2026-01-15 16:14:36,086 | INFO | mysql.connector | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-01-15 16:14:36,106 | INFO | ocr-api | Database table verified/created successfully
+2026-01-15 16:23:14,689 | INFO | ocr-api | Starting OCR API...
+2026-01-15 16:23:14,805 | INFO | mysql.connector | package: mysql.connector.plugins
+2026-01-15 16:23:14,807 | INFO | mysql.connector | plugin_name: caching_sha2_password
+2026-01-15 16:23:14,808 | INFO | mysql.connector | AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-01-15 16:23:14,818 | INFO | ocr-api | Database table verified/created successfully
