@@ -1,0 +1,21 @@
+# ---- FastAPI core ----
+fastapi
+uvicorn[standard]
+
+# ---- Environment config ----
+python-dotenv
+
+# ---- Database (MySQL) ----
+mysql-connector-python
+
+# ---- OCR & Image Processing ----
+easyocr
+torch
+torchvision
+Pillow
+opencv-python-headless
+# ---- File uploads ----
+python-multipart
+
+# ---- Validation & typing ----
+pydantic
